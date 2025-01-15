@@ -1,3 +1,4 @@
+///userController.js
 const User = require('./User.js');
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');

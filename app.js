@@ -1,3 +1,4 @@
+//app.js
 const express = require('express');
 const connectDB = require('./db.js');
 const dotenv = require('dotenv');
